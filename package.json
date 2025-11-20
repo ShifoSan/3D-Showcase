@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://ShifoSan.github.io/3D-Showcase",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
